@@ -50,7 +50,7 @@
 
     .sub2 {
         float: right;
-        color: white;
+        color: yellow;
         width: 100px;
         padding: 5px;
         margin: -3px -3px 0px;
@@ -63,7 +63,7 @@
     }
 
     .sub3 {
-        color: black;
+        color: red;
         float: right;
         width: 100px;
         padding: 5px;
